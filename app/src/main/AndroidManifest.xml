@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/managecasalogo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ManageCasa"
+        tools:targetApi="31">
+        <activity
+            android:name=".Complaint_display"
+            android:exported="false" />
+        <activity
+            android:name=".Main3"
+            android:exported="false" />
+        <activity
+            android:name=".Upload_complaint"
+            android:exported="false" />
+        <activity
+            android:name=".Forgot_Password"
+            android:exported="false" />
+        <activity
+            android:name=".UserDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".User_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Main2"
+            android:exported="false" />
+        <activity
+            android:name=".UserActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UploadActivity"
+            android:exported="false"
+            android:theme="@style/Theme.ManageCasa" />
+        <activity
+            android:name=".Notice_display"
+            android:exported="false" />
+        <activity
+            android:name=".Notice_create"
+            android:exported="false" />
+        <activity
+            android:name=".View_Complaints"
+            android:exported="false" />
+        <activity
+            android:name=".Complaints_Requests"
+            android:exported="false" />
+        <activity
+            android:name=".User_Navigation"
+            android:exported="false"
+            android:label="@string/title_activity_user_navigation"
+            android:theme="@style/Theme.ManageCasa.NoActionBar" />
+        <activity
+            android:name=".recycler"
+            android:exported="false" />
+        <activity
+            android:name=".meeting"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".onboardingscreen"
+            android:exported="false" />
+        <activity
+            android:name=".AdminNavigation"
+            android:exported="true"
+            android:label="@string/title_activity_admin_navigation"
+            android:theme="@style/Theme.ManageCasa.NoActionBar" />
+        <activity
+            android:name=".EditProfileActivitry"
+            android:exported="false" />
+        <activity
+            android:name=".UserProfile"
+            android:exported="false" />
+        <activity
+            android:name=".Home"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_view"
+            android:exported="false" />
+        <activity
+            android:name=".UserSignup1"
+            android:exported="false" />
+        <activity
+            android:name=".UserLogin1"
+            android:exported="false" />
+        <activity
+            android:name=".AdminLogin"
+            android:exported="false" />
+        <activity
+            android:name=".AdminDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".Splash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

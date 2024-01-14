@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"/>
+
+    <item android:id="@+id/menu_profile"
+        android:icon="@drawable/person_black"
+        android:title="Profile"/>
+
+    <item android:id="@+id/menu_notice"
+        android:icon="@drawable/baseline_notifications_active_24"
+        android:title="Notice"/>
+    <item android:id="@+id/upload_complaint"
+        android:icon="@drawable/baseline_comment_24"
+        android:title="UploadComplaint"/>
+
+    <item android:id="@+id/menu_uploadnotice"
+        android:icon="@drawable/baseline_notifications_active_24"
+        android:title="UploadNotice"/>
+
+    <item android:id="@+id/menu_meetings"
+        android:icon="@drawable/baseline_meeting_room_24"
+        android:title="Meetings"/>
+    <item android:id="@+id/menu_viewmeetings"
+        android:icon="@drawable/baseline_meeting_room_24"
+        android:title="ViewMeetings"/>
+
+    <item android:id="@+id/menu_complaints_request"
+        android:icon="@drawable/baseline_comment_24"
+        android:title="Complaints/Request"/>
+
+    <item android:id="@+id/menu_logout"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="Log Out"/>
+</menu>

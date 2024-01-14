@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_user_dashboard.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_user_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_upload_complaint.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_upload_complaint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_edit_profile_activitry.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_edit_profile_activitry.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "com.example.managecasa.app-mergeDebugResources-55:/layout/activity_admin_view.xml",
+        "source": "com.example.managecasa.app-main-58:/layout/activity_admin_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\nav_header_admin_navigation.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\nav_header_admin_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_user_navigation.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_user_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_main3.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\nav_header_user_navigation.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\nav_header_user_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_user_profile.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_complaints_requests.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_complaints_requests.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_notice_create.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_notice_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\singlerow1.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\singlerow1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\singlerow3.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\singlerow3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\item_container_onboarding.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\item_container_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_meeting.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_meeting.xml"
+    },
+    {
+        "merged": "com.example.managecasa.app-mergeDebugResources-55:/layout/activity_main.xml",
+        "source": "com.example.managecasa.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_myadapter.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_myadapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_user2.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_user2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_view_complaints.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_view_complaints.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_onboardingscreen.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_onboardingscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_recycler.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_user.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\recycler_item.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\recycler_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_admin_login.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_user_login1.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_user_login1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_home2.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_home2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_complaint_display.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_complaint_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_admin_navigation.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_admin_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_admin_view.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_admin_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_admin_dashboard.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_user_signup1.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_user_signup1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\singlerow.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\singlerow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_notice_display.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_notice_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\activity_upload.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-mergeDebugResources-55:\\layout\\recycler_source.xml",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\recycler_source.xml"
+    }
+]

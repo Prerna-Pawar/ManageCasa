@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340119833770",
+    "project_id": "managecasa-c4971",
+    "storage_bucket": "managecasa-c4971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340119833770:android:87db8519d38c51eb3bd4d3",
+        "android_client_info": {
+          "package_name": "com.example.managecasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340119833770-an2mvah1lsgmgolrpcn4ltcnpbbasar3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA04T2k1LipbUYsnkCXqgEVocGDTLmCw1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340119833770-an2mvah1lsgmgolrpcn4ltcnpbbasar3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

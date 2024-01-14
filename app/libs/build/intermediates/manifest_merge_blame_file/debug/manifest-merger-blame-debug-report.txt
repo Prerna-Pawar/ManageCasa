@@ -1,0 +1,397 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.managecasa"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+11-->[com.firebaseui:firebase-ui-database:8.0.2] C:\Users\Prerna\.gradle\caches\transforms-3\a495decd2f056f72b724d1dd33c89cf3\transformed\firebase-ui-database-8.0.2\AndroidManifest.xml:9:5-67
+11-->[com.firebaseui:firebase-ui-database:8.0.2] C:\Users\Prerna\.gradle\caches\transforms-3\a495decd2f056f72b724d1dd33c89cf3\transformed\firebase-ui-database-8.0.2\AndroidManifest.xml:9:22-64
+12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-database:20.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\96f019a1ece30bf2f4a166eed3ce7142\transformed\firebase-database-20.2.0\AndroidManifest.xml:24:5-79
+13-->[com.google.firebase:firebase-database:20.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\96f019a1ece30bf2f4a166eed3ce7142\transformed\firebase-database-20.2.0\AndroidManifest.xml:24:22-76
+14
+15    <permission
+15-->[androidx.core:core:1.9.0] C:\Users\Prerna\.gradle\caches\transforms-3\263e6c55055d4c36f6263fedb88399fb\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+16        android:name="com.example.managecasa.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+16-->[androidx.core:core:1.9.0] C:\Users\Prerna\.gradle\caches\transforms-3\263e6c55055d4c36f6263fedb88399fb\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+17        android:protectionLevel="signature" />
+17-->[androidx.core:core:1.9.0] C:\Users\Prerna\.gradle\caches\transforms-3\263e6c55055d4c36f6263fedb88399fb\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+18
+19    <uses-permission android:name="com.example.managecasa.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+19-->[androidx.core:core:1.9.0] C:\Users\Prerna\.gradle\caches\transforms-3\263e6c55055d4c36f6263fedb88399fb\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+19-->[androidx.core:core:1.9.0] C:\Users\Prerna\.gradle\caches\transforms-3\263e6c55055d4c36f6263fedb88399fb\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+20
+21    <application
+21-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:5:5-112:19
+22        android:allowBackup="true"
+22-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:6:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.9.0] C:\Users\Prerna\.gradle\caches\transforms-3\263e6c55055d4c36f6263fedb88399fb\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+24        android:dataExtractionRules="@xml/data_extraction_rules"
+24-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:7:9-65
+25        android:debuggable="true"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:8:9-54
+27        android:icon="@drawable/managecasalogo"
+27-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:9:9-48
+28        android:label="@string/app_name"
+28-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:10:9-41
+29        android:supportsRtl="true"
+29-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:11:9-35
+30        android:testOnly="true"
+31        android:theme="@style/Theme.ManageCasa" >
+31-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:12:9-48
+32        <activity
+32-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:14:9-16:40
+33            android:name="com.example.managecasa.Complaint_display"
+33-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:15:13-46
+34            android:exported="false" />
+34-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:16:13-37
+35        <activity
+35-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:17:9-19:40
+36            android:name="com.example.managecasa.Main3"
+36-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:18:13-34
+37            android:exported="false" />
+37-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:19:13-37
+38        <activity
+38-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:20:9-22:40
+39            android:name="com.example.managecasa.Upload_complaint"
+39-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:21:13-45
+40            android:exported="false" />
+40-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:22:13-37
+41        <activity
+41-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:23:9-25:40
+42            android:name="com.example.managecasa.Forgot_Password"
+42-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:24:13-44
+43            android:exported="false" />
+43-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:25:13-37
+44        <activity
+44-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:26:9-28:40
+45            android:name="com.example.managecasa.UserDashboard"
+45-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:27:13-42
+46            android:exported="false" />
+46-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:28:13-37
+47        <activity
+47-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:29:9-31:40
+48            android:name="com.example.managecasa.User_Activity"
+48-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:30:13-42
+49            android:exported="false" />
+49-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:31:13-37
+50        <activity
+50-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:32:9-34:40
+51            android:name="com.example.managecasa.Main2"
+51-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:33:13-34
+52            android:exported="false" />
+52-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:34:13-37
+53        <activity
+53-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:35:9-37:40
+54            android:name="com.example.managecasa.UserActivity"
+54-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:36:13-41
+55            android:exported="false" />
+55-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:37:13-37
+56        <activity
+56-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:38:9-41:55
+57            android:name="com.example.managecasa.UploadActivity"
+57-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:39:13-43
+58            android:exported="false"
+58-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:40:13-37
+59            android:theme="@style/Theme.ManageCasa" />
+59-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:41:13-52
+60        <activity
+60-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:42:9-44:40
+61            android:name="com.example.managecasa.Notice_display"
+61-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:43:13-43
+62            android:exported="false" />
+62-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:44:13-37
+63        <activity
+63-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:45:9-47:40
+64            android:name="com.example.managecasa.Notice_create"
+64-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:46:13-42
+65            android:exported="false" />
+65-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:47:13-37
+66        <activity
+66-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:48:9-50:40
+67            android:name="com.example.managecasa.View_Complaints"
+67-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:49:13-44
+68            android:exported="false" />
+68-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:50:13-37
+69        <activity
+69-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:51:9-53:40
+70            android:name="com.example.managecasa.Complaints_Requests"
+70-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:52:13-48
+71            android:exported="false" />
+71-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:53:13-37
+72        <activity
+72-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:54:9-58:67
+73            android:name="com.example.managecasa.User_Navigation"
+73-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:55:13-44
+74            android:exported="false"
+74-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:56:13-37
+75            android:label="@string/title_activity_user_navigation"
+75-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:57:13-67
+76            android:theme="@style/Theme.ManageCasa.NoActionBar" />
+76-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:58:13-64
+77        <activity
+77-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:59:9-61:40
+78            android:name="com.example.managecasa.recycler"
+78-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:60:13-37
+79            android:exported="false" />
+79-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:61:13-37
+80        <activity
+80-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:62:9-64:40
+81            android:name="com.example.managecasa.meeting"
+81-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:63:13-36
+82            android:exported="false" />
+82-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:64:13-37
+83        <activity
+83-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:65:9-67:40
+84            android:name="com.example.managecasa.HomeActivity"
+84-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:66:13-41
+85            android:exported="false" />
+85-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:67:13-37
+86        <activity
+86-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:68:9-70:40
+87            android:name="com.example.managecasa.onboardingscreen"
+87-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:69:13-45
+88            android:exported="false" />
+88-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:70:13-37
+89        <activity
+89-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:71:9-75:67
+90            android:name="com.example.managecasa.AdminNavigation"
+90-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:72:13-44
+91            android:exported="true"
+91-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:73:13-36
+92            android:label="@string/title_activity_admin_navigation"
+92-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:74:13-68
+93            android:theme="@style/Theme.ManageCasa.NoActionBar" />
+93-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:75:13-64
+94        <activity
+94-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:76:9-78:40
+95            android:name="com.example.managecasa.EditProfileActivitry"
+95-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:77:13-49
+96            android:exported="false" />
+96-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:78:13-37
+97        <activity
+97-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:79:9-81:40
+98            android:name="com.example.managecasa.UserProfile"
+98-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:80:13-40
+99            android:exported="false" />
+99-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:81:13-37
+100        <activity
+100-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:82:9-84:40
+101            android:name="com.example.managecasa.Home"
+101-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:83:13-33
+102            android:exported="false" />
+102-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:84:13-37
+103        <activity
+103-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:85:9-87:40
+104            android:name="com.example.managecasa.Admin_view"
+104-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:86:13-39
+105            android:exported="false" />
+105-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:87:13-37
+106        <activity
+106-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:88:9-90:40
+107            android:name="com.example.managecasa.UserSignup1"
+107-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:89:13-40
+108            android:exported="false" />
+108-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:90:13-37
+109        <activity
+109-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:91:9-93:40
+110            android:name="com.example.managecasa.UserLogin1"
+110-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:92:13-39
+111            android:exported="false" />
+111-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:93:13-37
+112        <activity
+112-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:94:9-96:40
+113            android:name="com.example.managecasa.AdminLogin"
+113-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:95:13-39
+114            android:exported="false" />
+114-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:96:13-37
+115        <activity
+115-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:97:9-99:40
+116            android:name="com.example.managecasa.AdminDashboard"
+116-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:98:13-43
+117            android:exported="false" />
+117-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:99:13-37
+118        <activity
+118-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:100:9-108:20
+119            android:name="com.example.managecasa.Splash"
+119-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:101:13-35
+120            android:exported="true" >
+120-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:102:13-36
+121            <intent-filter>
+121-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:103:13-107:29
+122                <action android:name="android.intent.action.MAIN" />
+122-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:104:17-69
+122-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:104:25-66
+123
+124                <category android:name="android.intent.category.LAUNCHER" />
+124-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:106:17-77
+124-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:106:27-74
+125            </intent-filter>
+126        </activity>
+127        <activity
+127-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:109:9-111:40
+128            android:name="com.example.managecasa.MainActivity"
+128-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:110:13-41
+129            android:exported="false" />
+129-->C:\Users\Prerna\AndroidStudioProjects\ManageCasa\app\src\main\AndroidManifest.xml:111:13-37
+130
+131        <service
+131-->[com.google.firebase:firebase-database-ktx:20.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\1e9135c255120f9657540bf7542e60b2\transformed\firebase-database-ktx-20.2.0\AndroidManifest.xml:11:9-17:19
+132            android:name="com.google.firebase.components.ComponentDiscoveryService"
+132-->[com.google.firebase:firebase-database-ktx:20.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\1e9135c255120f9657540bf7542e60b2\transformed\firebase-database-ktx-20.2.0\AndroidManifest.xml:12:13-84
+133            android:directBootAware="true"
+133-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Prerna\.gradle\caches\transforms-3\873046feda83323f034b61d4b34d2dd7\transformed\firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+134            android:exported="false" >
+134-->[com.google.firebase:firebase-database-ktx:20.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\1e9135c255120f9657540bf7542e60b2\transformed\firebase-database-ktx-20.2.0\AndroidManifest.xml:13:13-37
+135            <meta-data
+135-->[com.google.firebase:firebase-database-ktx:20.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\1e9135c255120f9657540bf7542e60b2\transformed\firebase-database-ktx-20.2.0\AndroidManifest.xml:14:13-16:85
+136                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+136-->[com.google.firebase:firebase-database-ktx:20.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\1e9135c255120f9657540bf7542e60b2\transformed\firebase-database-ktx-20.2.0\AndroidManifest.xml:15:17-124
+137                android:value="com.google.firebase.components.ComponentRegistrar" />
+137-->[com.google.firebase:firebase-database-ktx:20.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\1e9135c255120f9657540bf7542e60b2\transformed\firebase-database-ktx-20.2.0\AndroidManifest.xml:16:17-82
+138            <meta-data
+138-->[com.google.firebase:firebase-database:20.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\96f019a1ece30bf2f4a166eed3ce7142\transformed\firebase-database-20.2.0\AndroidManifest.xml:31:13-33:85
+139                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+139-->[com.google.firebase:firebase-database:20.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\96f019a1ece30bf2f4a166eed3ce7142\transformed\firebase-database-20.2.0\AndroidManifest.xml:32:17-109
+140                android:value="com.google.firebase.components.ComponentRegistrar" />
+140-->[com.google.firebase:firebase-database:20.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\96f019a1ece30bf2f4a166eed3ce7142\transformed\firebase-database-20.2.0\AndroidManifest.xml:33:17-82
+141            <meta-data
+141-->[com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\Prerna\.gradle\caches\transforms-3\ac664b1878f6dbe4f60cedf5ae0b9d4f\transformed\firebase-storage-ktx-20.1.0\AndroidManifest.xml:14:13-16:85
+142                android:name="com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar"
+142-->[com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\Prerna\.gradle\caches\transforms-3\ac664b1878f6dbe4f60cedf5ae0b9d4f\transformed\firebase-storage-ktx-20.1.0\AndroidManifest.xml:15:17-122
+143                android:value="com.google.firebase.components.ComponentRegistrar" />
+143-->[com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\Prerna\.gradle\caches\transforms-3\ac664b1878f6dbe4f60cedf5ae0b9d4f\transformed\firebase-storage-ktx-20.1.0\AndroidManifest.xml:16:17-82
+144            <meta-data
+144-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\Prerna\.gradle\caches\transforms-3\5d3f4f08b0e61a42ef46ed6a30c53f8f\transformed\firebase-storage-20.1.0\AndroidManifest.xml:32:13-34:85
+145                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+145-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\Prerna\.gradle\caches\transforms-3\5d3f4f08b0e61a42ef46ed6a30c53f8f\transformed\firebase-storage-20.1.0\AndroidManifest.xml:33:17-107
+146                android:value="com.google.firebase.components.ComponentRegistrar" />
+146-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\Prerna\.gradle\caches\transforms-3\5d3f4f08b0e61a42ef46ed6a30c53f8f\transformed\firebase-storage-20.1.0\AndroidManifest.xml:34:17-82
+147            <meta-data
+147-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\Prerna\.gradle\caches\transforms-3\a807feba15f700c46b501571a0759964\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:14:13-16:85
+148                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+148-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\Prerna\.gradle\caches\transforms-3\a807feba15f700c46b501571a0759964\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:15:17-113
+149                android:value="com.google.firebase.components.ComponentRegistrar" />
+149-->[com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\Prerna\.gradle\caches\transforms-3\a807feba15f700c46b501571a0759964\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:16:17-82
+150        </service>
+151
+152        <activity
+152-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Prerna\.gradle\caches\transforms-3\44a09a88470a54087416c27a42d0eb02\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+153            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+153-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Prerna\.gradle\caches\transforms-3\44a09a88470a54087416c27a42d0eb02\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+154            android:exported="false"
+154-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Prerna\.gradle\caches\transforms-3\44a09a88470a54087416c27a42d0eb02\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+155            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+155-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Prerna\.gradle\caches\transforms-3\44a09a88470a54087416c27a42d0eb02\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+156
+157        <provider
+157-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Prerna\.gradle\caches\transforms-3\873046feda83323f034b61d4b34d2dd7\transformed\firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+158            android:name="com.google.firebase.provider.FirebaseInitProvider"
+158-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Prerna\.gradle\caches\transforms-3\873046feda83323f034b61d4b34d2dd7\transformed\firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+159            android:authorities="com.example.managecasa.firebaseinitprovider"
+159-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Prerna\.gradle\caches\transforms-3\873046feda83323f034b61d4b34d2dd7\transformed\firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+160            android:directBootAware="true"
+160-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Prerna\.gradle\caches\transforms-3\873046feda83323f034b61d4b34d2dd7\transformed\firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+161            android:exported="false"
+161-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Prerna\.gradle\caches\transforms-3\873046feda83323f034b61d4b34d2dd7\transformed\firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+162            android:initOrder="100" />
+162-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Prerna\.gradle\caches\transforms-3\873046feda83323f034b61d4b34d2dd7\transformed\firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+163
+164        <meta-data
+164-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Prerna\.gradle\caches\transforms-3\86ed40eafbf6fad11dcdc7f6dd4b27fd\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+165            android:name="com.google.android.gms.version"
+165-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Prerna\.gradle\caches\transforms-3\86ed40eafbf6fad11dcdc7f6dd4b27fd\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+166            android:value="@integer/google_play_services_version" />
+166-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Prerna\.gradle\caches\transforms-3\86ed40eafbf6fad11dcdc7f6dd4b27fd\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+167
+168        <provider
+168-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\647f5706b47268af9b64eb2b28f4c1ba\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+169            android:name="androidx.startup.InitializationProvider"
+169-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\647f5706b47268af9b64eb2b28f4c1ba\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+170            android:authorities="com.example.managecasa.androidx-startup"
+170-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\647f5706b47268af9b64eb2b28f4c1ba\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+171            android:exported="false" >
+171-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\647f5706b47268af9b64eb2b28f4c1ba\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+172            <meta-data
+172-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\647f5706b47268af9b64eb2b28f4c1ba\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+173                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+173-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\647f5706b47268af9b64eb2b28f4c1ba\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+174                android:value="androidx.startup" />
+174-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Prerna\.gradle\caches\transforms-3\647f5706b47268af9b64eb2b28f4c1ba\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+175            <meta-data
+175-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Prerna\.gradle\caches\transforms-3\a01c78ae47369299a5db9b1a8cd221dd\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+176                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+176-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Prerna\.gradle\caches\transforms-3\a01c78ae47369299a5db9b1a8cd221dd\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+177                android:value="androidx.startup" />
+177-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Prerna\.gradle\caches\transforms-3\a01c78ae47369299a5db9b1a8cd221dd\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+178            <meta-data
+178-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+179                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+179-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+180                android:value="androidx.startup" />
+180-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+181        </provider>
+182
+183        <uses-library
+183-->[androidx.window:window:1.0.0] C:\Users\Prerna\.gradle\caches\transforms-3\d825f936f4a1abc3dc3c18661b3ad493\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+184            android:name="androidx.window.extensions"
+184-->[androidx.window:window:1.0.0] C:\Users\Prerna\.gradle\caches\transforms-3\d825f936f4a1abc3dc3c18661b3ad493\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+185            android:required="false" />
+185-->[androidx.window:window:1.0.0] C:\Users\Prerna\.gradle\caches\transforms-3\d825f936f4a1abc3dc3c18661b3ad493\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+186        <uses-library
+186-->[androidx.window:window:1.0.0] C:\Users\Prerna\.gradle\caches\transforms-3\d825f936f4a1abc3dc3c18661b3ad493\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+187            android:name="androidx.window.sidecar"
+187-->[androidx.window:window:1.0.0] C:\Users\Prerna\.gradle\caches\transforms-3\d825f936f4a1abc3dc3c18661b3ad493\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+188            android:required="false" />
+188-->[androidx.window:window:1.0.0] C:\Users\Prerna\.gradle\caches\transforms-3\d825f936f4a1abc3dc3c18661b3ad493\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+189
+190        <receiver
+190-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+191            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+191-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+192            android:directBootAware="false"
+192-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+193            android:enabled="true"
+193-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+194            android:exported="true"
+194-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+195            android:permission="android.permission.DUMP" >
+195-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+196            <intent-filter>
+196-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+197                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+197-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+197-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+198            </intent-filter>
+199            <intent-filter>
+199-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+200                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+200-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+200-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+201            </intent-filter>
+202            <intent-filter>
+202-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+203                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+203-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+203-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+204            </intent-filter>
+205            <intent-filter>
+205-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+206                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+206-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+206-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Prerna\.gradle\caches\transforms-3\0394a02c03008fbb8e31a00b39d9bbd9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+207            </intent-filter>
+208        </receiver>
+209    </application>
+210
+211</manifest>

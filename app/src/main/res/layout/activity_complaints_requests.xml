@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bgor"
+    tools:context=".Complaints_Requests">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/title_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/Transparent"
+        android:drawablePadding="1dp"
+        android:layout_margin="5dp"
+        android:gravity="center_horizontal"
+        android:text=" Complaint"
+        android:textSize="30dp"
+        android:textColor="@color/DarkBlue"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/register_complaint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/Transparent"
+        android:drawablePadding="1dp"
+        android:text="Register your Complaint here"
+        android:textSize="20dp"
+        android:gravity="center_horizontal"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:textColor="@color/colorAccent"
+        android:textStyle="italic" />
+
+    <ImageView
+        android:layout_width="381dp"
+        android:layout_height="220dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/complaint" />
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:backgroundTint="@color/white"
+        android:elevation="4dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="20dp"
+        app:cardCornerRadius="10dp"
+        android:layout_height="match_parent">
+        <EditText
+            android:id="@+id/name_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:drawableLeft="@drawable/baseline_person_24"
+            android:hint="Name"
+            android:padding="1dp"
+            android:inputType="textPersonName"
+            android:background="@android:color/transparent"
+            android:textColorHint="@color/black"
+            android:textColor="@color/black"
+            android:textSize="15dp" />
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+    android:layout_width="match_parent"
+    android:backgroundTint="@color/white"
+    android:elevation="4dp"
+    android:layout_marginLeft="25dp"
+    app:cardCornerRadius="10dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="20dp"
+    android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/email_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="Username"
+        android:padding="1dp"
+        android:drawableLeft="@drawable/baseline_person_pin_24"
+        android:inputType="text"
+        android:background="@android:color/transparent"
+        android:textColorHint="@color/black"
+        android:textColor="@color/black"
+        android:textSize="15dp" />
+</androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:backgroundTint="@color/white"
+        android:elevation="4dp"
+        android:layout_marginLeft="25dp"
+        app:cardCornerRadius="10dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="20dp"
+        android:layout_height="match_parent">
+        <EditText
+            android:id="@+id/phone_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Contact no."
+            android:layout_margin="10dp"
+            android:inputType="phone"
+            android:padding="1dp"
+            android:background="@android:color/transparent"
+            android:textColorHint="@color/black"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:drawableLeft="@drawable/baseline_phone_24"/>
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:backgroundTint="@color/white"
+        android:elevation="4dp"
+        android:layout_marginLeft="25dp"
+        app:cardCornerRadius="10dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="20dp"
+        android:layout_height="match_parent">
+        <EditText
+            android:id="@+id/subject_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:hint="Enter your subject here"
+            android:background="@android:color/transparent"
+            android:padding="1dp"
+            android:textColorHint="@color/black"
+            android:inputType="text"
+            android:textColor="@color/black"
+            android:textSize="15dp" />
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:backgroundTint="@color/white"
+        android:elevation="4dp"
+        android:layout_marginLeft="25dp"
+        app:cardCornerRadius="10dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="10dp"
+        android:layout_height="100dp">
+        <EditText
+            android:id="@+id/complaint_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:hint="Give description for your Complaint"
+            android:background="@android:color/transparent"
+            android:inputType="textMultiLine"
+            android:minLines="3"
+            android:padding="1dp"
+            android:textSize="15dp"
+            android:textColorHint="@color/black"
+            android:textColor="@color/black" />
+    </androidx.cardview.widget.CardView>
+    <Button
+        android:id="@+id/submit_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="16dp"
+        android:backgroundTint="@color/colorAccent"
+        android:text="Submit"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:layout_marginTop="30dp"
+        app:cornerRadius = "35dp"/>
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
+
+
+</ScrollView>

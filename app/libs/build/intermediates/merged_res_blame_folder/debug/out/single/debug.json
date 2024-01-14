@@ -1,0 +1,566 @@
+[
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_login.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_bluebg.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\bluebg.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_noticeboard_icon.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\noticeboard_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_notice.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\notice.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\profile.png"
+    },
+    {
+        "merged": "com.example.managecasa.app-merged_res-56:/layout_activity_admin_view.xml.flat",
+        "source": "com.example.managecasa.app-main-58:/layout/activity_admin_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_apartment_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_apartment_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_send_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_send_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_nav_header_admin_navigation.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\nav_header_admin_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_verified_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_verified_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_nav_header_user_navigation.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\nav_header_user_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_notification.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\raw_animation.json.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\raw\\animation.json"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_meet.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\meet.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_managecasalogo.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\managecasalogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_upload.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_mylogo.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\mylogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_bgor.jpeg.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\bgor.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_bg5.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\bg5.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_home_icon.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_complaint_display.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_complaint_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_singlerow.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\singlerow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_meeting_icon.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\meeting_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_image.jpg.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_noticeonboarding.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\noticeonboarding.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_recycler_source.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\recycler_source.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_edit_profile_activitry.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_edit_profile_activitry.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_main3.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_poll_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_poll_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_personicon.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\personicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_meeting_room_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_meeting_room_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_myadapter.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_myadapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_user_dashboard.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_user_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_managecasaonboarding.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\managecasaonboarding.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_complaint.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\complaint.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_user_profile.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_item_container_onboarding.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\item_container_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_singlerow1.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\singlerow1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\raw_isometric.json.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\raw\\isometric.json"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_register.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\register.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_onboarding_indicator_active.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\onboarding_indicator_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_complaintsrequest_icon.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\complaintsrequest_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_notice_create.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_notice_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout-land_activity_user_navigation.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout-land\\activity_user_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_notifications_active_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_notifications_active_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\raw_animation2.json.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\raw\\animation2.json"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_impnoticerem.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\impnoticerem.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_lavendar_border.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\lavendar_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_indicator_active_background.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\indicator_active_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-pngs-51:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_white_background.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\white_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-pngs-51:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_upload_complaint.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_upload_complaint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-pngs-51:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_view_pager.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_user2.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_user2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_notice_display.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_notice_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_user_login1.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_user_login1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_admin_view.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_admin_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_home2.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_home2.xml"
+    },
+    {
+        "merged": "com.example.managecasa.app-merged_res-56:/layout_activity_main.xml.flat",
+        "source": "com.example.managecasa.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-pngs-51:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_comment_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_comment_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_uploadnotice_icon.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\uploadnotice_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_bg2.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_managecasa.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\managecasa.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_recycler.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_meeting.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_meeting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_person_black.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\person_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_img_4.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_icon_background.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_apartment.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\apartment.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-pngs-51:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_bg1.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\bg1.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_managecasamodi.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\managecasamodi.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-pngs-51:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_complaints_requests.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_complaints_requests.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_conductpolls.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\conductpolls.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_bg.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_user_signup1.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_user_signup1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_onboarding_indicator_inactive.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\onboarding_indicator_inactive.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_cardview.jpg.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\cardview.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_onboardingscreen.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_onboardingscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_bg4.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\bg4.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_user_navigation.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_user_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_lavender_border.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\lavender_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-pngs-51:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_admin_login.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\menu_iconmenu.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\menu\\iconmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_meeting.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\meeting.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_recycler_item.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\recycler_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_userprofile_icon.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\userprofile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_requestscomplaints.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\requestscomplaints.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_singlerow3.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\singlerow3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_view_complaints.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_view_complaints.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_indicator_inactive_background.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\indicator_inactive_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_ic_right.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\ic_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_user.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_note.png.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\note.png"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_outer_background.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\outer_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_admin_navigation.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_admin_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_phone_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\drawable_baseline_person_pin_24.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\drawable\\baseline_person_pin_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-merged_res-56:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Prerna\\.gradle\\daemon\\7.5\\com.example.managecasa.app-main-58:\\layout\\activity_splash.xml"
+    }
+]
